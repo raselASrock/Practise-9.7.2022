@@ -59,3 +59,68 @@ button{
     color: gray;
     text-align: center;
 }
+.forth-banner{
+    display: flex;
+}
+.forth-banner-heading{
+    font-size: 25px;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.forth-banner-pera{
+    color: black;
+    font-size: 20px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.forth-banner-style{
+   
+    background-color: rgb(252, 223, 227);
+    border-radius: 20px;
+    margin-left: 200px;
+    margin-right: 150px;
+    margin-top: 100px;
+    padding: 10px 25px;
+    margin-bottom: 100px;
+}
+.icon{
+    color: red;
+}
+.free-image{
+    margin-left: 100px;
+    margin-bottom: 50px;
+    border-radius: 10px;
+}
+.middle-banner-image{
+    display: flex;
+    margin-left: 100px;
+}
+.zakat-pera{
+    color: gray;
+    padding-right: 30px;
+    font-size: 25px;
+}
+a{
+    color:red;
+    font-size: 30px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-weight: 700;
+   
+}
+.last-banner{
+    margin-bottom: 200px;
+    margin-top: 200px;
+}
+footer{
+    background-color: rgb(39, 8, 8);
+    
+}
+.last{
+    color: Tomato;
+    text-align: center;
+    background-size: cover;
+    padding-bottom: 100px;
+}
+h3{
+    color: red;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 40px;
+}
